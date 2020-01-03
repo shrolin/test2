@@ -12,6 +12,6 @@ public class Test1 {
   	private Date date;
   	private Calendar calender;
 
-  private String gg;
+  	private String gg;
 
 }
