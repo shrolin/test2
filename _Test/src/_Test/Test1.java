@@ -8,6 +8,10 @@ public class Test1 {
 	int a=1;
 
   String s= "abc";
+
   	private Date date;
   	private Calendar calender;
+
+  private String gg;
+
 }
